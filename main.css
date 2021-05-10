@@ -1,0 +1,14 @@
+footer{
+    width: auto;
+    height: fit-content;
+}
+footer a {
+    margin-right: 15px;
+}
+.navbar-toggler{
+    border: 0;
+}
+.nav-link:hover{
+    background-color: rgba(245, 244, 244, 0.623);
+    border-radius: 5px;
+}
